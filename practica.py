@@ -13,3 +13,5 @@ numd = 14
 
 if num < numd:
     print("La variable numd es mayor a la num")
+
+print("Me habia Faltado agregar el else, pero todo listo")
